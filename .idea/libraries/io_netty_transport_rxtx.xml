@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="io.netty.transport.rxtx" type="repository">
+    <properties maven-id="io.netty:netty-transport-rxtx:5.0.0.Alpha2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-rxtx-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-buffer-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-common-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-transport-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-resolver-5.0.0.Alpha2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rxtx-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

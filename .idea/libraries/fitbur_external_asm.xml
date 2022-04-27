@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fitbur.external.asm" type="repository">
+    <properties maven-id="com.fitbur.external:external-asm:1.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/external-asm-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
